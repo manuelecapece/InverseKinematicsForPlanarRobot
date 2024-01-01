@@ -18,3 +18,6 @@ In this project, the goal is to develop an inverse kinematics algorithm for a pl
 2) Secondary Task: The manipulator should strive to satisfy a secondary task of lesser importance, which is the measurement of manipulability.
 
 The project has been implemented using Matlab. To execute the code, run the 'progettoRobotica.m' file. For further information, please refer to the thesis.
+
+![Testo alternativo](https://github.com/manuelecapece/InverseKinematicsForPlanarRobot/blob/main/img/CINDIR.png)
+
